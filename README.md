@@ -12,12 +12,12 @@ You can also run the application if you have Java IDE such as Eclipse which is w
 When you run the application, a window will appear asking for your first and last name. Enter your name and click "OK" to start the quiz. You will be presented with multiple-choice questions with four possible answers. Click the button corresponding to your chosen answer. The application will show you if your answer is correct or incorrect, and then move on to the next question. At the end of the quiz, the application will display the number of correct answers and the percentage of correct answers.
 
 # Features
-Multiple choice questions with four possible answers.
-Displays correct/incorrect answer and moves on to the next question.
-Counts the number of correct answers and displays the score.
-Displays the percentage of correct answers at the end of the quiz.
-Timer: If the user does not select an answer within 10 seconds, the application will move on to the next question.
-Aesthetic and user-friendly GUI.
+1. Multiple choice questions with four possible answers.
+2. Displays correct/incorrect answer and moves on to the next question.
+3. Counts the number of correct answers and displays the score.
+4. Displays the percentage of correct answers at the end of the quiz.
+5. Timer: If the user does not select an answer within 10 seconds, the application will move on to the next question.
+6. Aesthetic and user-friendly GUI.
 
 
 # Contribution
