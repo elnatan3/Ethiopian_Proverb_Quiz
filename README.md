@@ -21,7 +21,7 @@ When you run the application, a window will appear asking for your first and las
 
 
 # Contribution
-I got some help building this project by watching the youtube video by 'Bro Code'. Anyone is welcome to push any updates. People are also encouraged to add more proverbs from Ethiopia.
+Anyone is welcome to push any updates. People are also encouraged to add more proverbs from Ethiopia.
 
 # Contact Information
 For any inquiries contact me at
