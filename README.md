@@ -2,18 +2,22 @@
 This is an Ethiopian proverb quiz app that I created using Java
 
 # Installation Instructions
-After downloading this reposity, you can run the program on several IDE such as Eclipse. Once you run the program it will display a welcome page asking for 
-your full name. Then you will be redirected to the quiz page where the timer will start automatically.
+1. To run this application on your local machine, you need to have Java Development Kit (JDK) installed. You can download and install JDK from the official Oracle website. Clone this repository to your local machine using this command: git clone https://github.com/<YOUR_USERNAME>/ethiopian-proverb-quiz.git
+2. Open the terminal and navigate to the directory containing the cloned repository.
+3. Compile the ProverbQuiz.java file using this command: javac ProverbQuiz.java
+4. Run the application using this command:java ProverbQuiz
+You can also run the application if you have Java IDE such as Eclipse which is what I used to create this app
 
 # Usage
-This app is very useful for anyone who wants to be tested on Ethiopian Proverbs. This app is also useful for anyone trying to learn these powerful proverbs. They
-are usually not used in other parts of the world and are very significant and profound. I grew up listening to them by my parents and other people whenever they are trying to explain something. I felt the need to share it to the rest of the world to know them and to encourage them to research and figure out what they mean.
+When you run the application, a window will appear asking for your first and last name. Enter your name and click "OK" to start the quiz. You will be presented with multiple-choice questions with four possible answers. Click the button corresponding to your chosen answer. The application will show you if your answer is correct or incorrect, and then move on to the next question. At the end of the quiz, the application will display the number of correct answers and the percentage of correct answers.
 
 # Features
-There are questions displayed with choices through A to D that you can click on.
-There is a timer being displayed on the bottom right of the quiz window.
-Whenever you select an option, the correc choice is displayed in blue whereas the rest will show as red. 
-The results will be displayed at the end with the percentage calculated for you. 
+Multiple choice questions with four possible answers.
+Displays correct/incorrect answer and moves on to the next question.
+Counts the number of correct answers and displays the score.
+Displays the percentage of correct answers at the end of the quiz.
+Timer: If the user does not select an answer within 10 seconds, the application will move on to the next question.
+Aesthetic and user-friendly GUI.
 
 
 # Contribution
