@@ -144,7 +144,7 @@ public class ProverbQuiz implements ActionListener {
 
 			rightNumber.setBounds(225, 225, 200, 100);
 			rightNumber.setBackground(new Color(25, 25, 25));
-			rightNumber.setForeground(new Color(0, 0, 255));
+			rightNumber.setForeground(new Color(173, 216, 230));
 			rightNumber.setFont(new Font("Ink Free", Font.BOLD, 50));
 			rightNumber.setBorder(BorderFactory.createBevelBorder(1));
 			rightNumber.setHorizontalAlignment(JTextField.CENTER);
@@ -152,7 +152,7 @@ public class ProverbQuiz implements ActionListener {
 
 			percentCorrectAnswer.setBounds(225, 325, 200, 100);
 			percentCorrectAnswer.setBackground(new Color(25, 25, 25));
-			percentCorrectAnswer.setForeground(new Color(0, 0, 255));
+			percentCorrectAnswer.setForeground(new Color(173, 216, 230));
 			percentCorrectAnswer.setFont(new Font("Ink Free", Font.BOLD, 50));
 			percentCorrectAnswer.setBorder(BorderFactory.createBevelBorder(1));
 			percentCorrectAnswer.setHorizontalAlignment(JTextField.CENTER);
